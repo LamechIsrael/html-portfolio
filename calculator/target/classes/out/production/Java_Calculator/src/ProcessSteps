@@ -1,0 +1,21 @@
+Calculator:
+    Create Methods
+        Add
+        Subtract
+        Divide
+        Multiply
+    Create Object - Calculator
+    Create Test Cases
+
+Connections:
+    Create connection for each method
+    Create JavaScript
+        Text Field
+        Buttons
+
+Connect JavaScript (or ReactJS) to Backend
+Prime with Docker
+Upload To AWS
+
+(Final)
+Create a Spring Boot version

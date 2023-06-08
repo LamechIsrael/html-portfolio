@@ -1,0 +1,18 @@
+.buttons {
+  display: inline-block;
+  background-color: red;
+}
+
+button {
+  height: 25px;
+  width: 25px;
+}
+
+body {
+  background-color: midnightblue;
+}
+
+#input {
+  padding-bottom: 10px;
+  width: 117px;
+}

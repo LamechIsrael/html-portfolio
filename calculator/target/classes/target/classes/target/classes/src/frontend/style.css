@@ -1,0 +1,32 @@
+.buttons {
+  display: inline-block;
+  background-color: red;
+}
+
+button {
+  height: 25px;
+  width: 25px;
+}
+
+body {
+  background-color: midnightblue;
+}
+
+#input {
+  padding-bottom: 10px;
+  width: 117px;
+}
+
+.results {
+  color: white;
+  font-weight: bold;
+}
+
+#texter {
+  font-size: 30px;
+  text-align: center;
+}
+
+#connection {
+  width: 100%;
+}
